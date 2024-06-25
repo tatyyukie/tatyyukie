@@ -1,5 +1,5 @@
 
-<img align="left" alt="Taty-pic" height="100" style="border-radius:50px;" src="https://media.discordapp.net/attachments/717909725722705954/971188057539756032/download20220502201238_3.png">
+
 
 ## Olá, eu sou a Tatiana! ✨
 </br>
