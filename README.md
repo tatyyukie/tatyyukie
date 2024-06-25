@@ -3,8 +3,7 @@
 
 ## Olá, eu sou a Tatiana! ✨
 </br>
-</br>
-✨ Cursando Análise e Desenvolvimento de Sistemas / UX/UI Design.
+✨ Formada em Análise e Desenvolvimento de Sistemas pela UTFPR. Atualmente trabalhando como QA, com aspiração em Automação e UX/UI.
 </br>
 </br>
 <div align="center">
