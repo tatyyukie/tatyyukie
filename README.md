@@ -1,32 +1,47 @@
+#  Olá, Sou a Tatiana
+## Bem vindo (a) ao meu perfil do GitHub
+💼 Trabalho como QA na empresa Tata Consultancy Services
 
+✍️ Atualmente estou estudando Automação com Cypress
 
+🎓 Sou formada em Análise e Desenvolvimento de Sistemas pela UTFPR Campus de Cornélio Procópio
 
-## Olá, eu sou a Tatiana! ✨
-</br>
-✨ Formada em Análise e Desenvolvimento de Sistemas pela UTFPR. Atualmente trabalhando como QA, com aspiração em Automação e UX/UI.
-</br>
-</br>
-<div align="center">
-  <a href="https://github.com/tatyyukie">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=tatyyukie&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatyyukie&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>  
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Taty-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  <img align="center" alt="Taty-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Taty-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Taty-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Taty-Bootstrap" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+📫 Entre em contato comigo via [Linkedin](https://www.linkedin.com/in/tatiana-motoyama/)
+
+☁️ Certificações:
+ [AWS Partner: Cloud Economics Essentials](https://www.credly.com/badges/0ee22e79-c207-4774-a624-b220f1676e20/linked_in_profile),
+ [AWS Educate Introduction to Cloud 101](https://www.credly.com/badges/128b4738-2375-4ba1-a564-f416a4a656d9/linked_in_profile),
+ [AWS Partner: Technical Accredited](https://www.credly.com/badges/12218bcb-fa99-4c95-9e68-7a924117ca70/linked_in_profile)
+ 
+
+ ##
+ 
+<div>
+  <a href="https://github.com/tatyyukie"> </a>
 </div>
   
-  ##
- 
-  </br>
-<div align="center">
-   <a href="https://www.linkedin.com/in/tatiana-motoyama/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:tatyy-yukie@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href = "mailto:taty.yukie4694@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
-  ![Snake animation](https://github.com/tatyyukie/tatyyukie/blob/output/github-contribution-grid-snake.svg)
- 
+## Ferramentas e Tecnologias
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Bootsrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg">
+  <img align="center" alt="Cucumber" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg">
+  <img align="center" alt="Cypress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg">
+  <img align="center" alt="Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg">
+  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
+  <img align="center" alt="Adobe XD" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg">
+  <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Swagger" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg">
+  <img align="center" alt="Postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
+  <img align="center" alt="Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Insomnia" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg">
+  <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
+  <img align="center" alt="Jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg">
+  <img align="center" alt="Notion" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg">
+  <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+
 </div>
+
