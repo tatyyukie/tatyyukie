@@ -1,4 +1,4 @@
-#  Olá, Sou a Tatiana
+#  Olá, eu sou a Tatiana
 ## Bem vindo (a) ao meu perfil do GitHub
 💼 Trabalho como QA na empresa Tata Consultancy Services
 
