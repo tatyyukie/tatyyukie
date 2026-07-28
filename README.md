@@ -2,7 +2,7 @@
 ## Bem vindo (a) ao meu perfil do GitHub
 💼 Trabalho como QA na empresa Tata Consultancy Services
 
-✍️ Atualmente estou estudando Automação com Cypress
+✍️ Atualmente estou estudando Automação de Testes
 
 🎓 Sou formada em Análise e Desenvolvimento de Sistemas pela UTFPR Campus de Cornélio Procópio
 
